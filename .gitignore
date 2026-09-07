@@ -1,0 +1,12 @@
+*.class
+*.jar
+*.war
+*.ear
+.settings/
+.project
+.classpath
+bin/
+build/
+dist/
+.DS_Store
+Thumbs.db
